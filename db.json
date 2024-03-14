@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Ms. Jim Cruickshank",
+      "id": 4
+    },
+    {
+      "name": "Erik Stroman",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Steel Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Chair",
+      "id": 16
+    },
+    {
+      "userId": 5,
+      "title": "Generic Fresh Table",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Small Concrete Chair",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30160",
+      "id": 1
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61951",
+      "id": 2
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/640/640/abstract?lock=39063",
+      "id": 5
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/640/640/abstract?lock=76749",
+      "id": 6
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/640/640/abstract?lock=69392",
+      "id": 7
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/640/640/abstract?lock=4738",
+      "id": 8
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/640/640/abstract?lock=13243",
+      "id": 9
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/640/abstract?lock=46364",
+      "id": 10
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/640/abstract?lock=52999",
+      "id": 11
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/640/abstract?lock=19590",
+      "id": 13
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/640/abstract?lock=43490",
+      "id": 14
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/640/abstract?lock=86401",
+      "id": 15
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/640/640/abstract?lock=7001",
+      "id": 16
+    }
+  ]
+}
